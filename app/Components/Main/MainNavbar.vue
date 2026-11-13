@@ -23,6 +23,12 @@
     display: flex;
     margin: auto;    
 }
+.toto{
+    display: flex;
+    list-style: none;
+    gap: 100px;
+    flex-direction: row;
+}
 #background_couleur{
     display: flex; 
     flex-direction: column;   
