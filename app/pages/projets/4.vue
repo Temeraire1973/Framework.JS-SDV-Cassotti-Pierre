@@ -3,7 +3,7 @@
         <h1>Quatrième projet : le MasterMind</h1>
         <ImageProjet
         src="/ImagesVue/MasterMind.png"
-        styleImage="width: 380px; height:auto;"/>
+        styleImage="width: 370px; height:auto;"/>
         <p>Voici mon quatrième projet.<br>
         Ce projet a été réalisé l'été 2026 afin de faire un projet pour la fin de ma première année de Bachelor chez Sup de Vinci.<br>
         Ce projet a été réalisé en majeure partie par mes soins avec de l'aide de mon père en matière de conception générale.<br>

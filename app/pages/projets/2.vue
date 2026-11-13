@@ -3,7 +3,7 @@
         <h1>Second projet : la bataille navale</h1>
         <ImageProjet
         src="/ImagesVue/BatailleNavale.png"
-        styleImage="width: auto; height:370px;"/>
+        styleImage="width: auto; height:330px;"/>
         <p>Voici maintenant mon second projet.<br>
         Ce projet m'a permis de continuer à développer mes compétences en programmation.<br>
         J'y ai incorporé mes acquis en algorithmie et en programmation appris lors de mon annéee de première.<br>

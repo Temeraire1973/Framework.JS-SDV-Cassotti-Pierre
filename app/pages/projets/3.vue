@@ -3,7 +3,7 @@
         <h1>Troisième projet : le sudoku</h1>
         <ImageProjet
         src="/ImagesVue/Sudoku.png"
-        styleImage="width: 380px; height:auto;"/>
+        styleImage="width: 350px; height:auto;"/>
         <p>Voici mon troisième projet.<br>
         Ce projet m'a permis développer encore plus mes compétences en programmation vues en classe de terminale.<br>
         J'y ai incorporé mes acquis en algorithmie et en programmation appris lors de mon annéee de terminale.<br>
